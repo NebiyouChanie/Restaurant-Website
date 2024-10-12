@@ -21,6 +21,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/NebiyouChanie/Restaurant-Website.git
+ ```
 
 
 ![image](https://github.com/user-attachments/assets/d189f4b4-5d19-4abf-9627-f7feabd862f1)
