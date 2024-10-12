@@ -14,16 +14,6 @@ This project is a responsive website designed for a restaurant.
 - **CSS**
  
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/NebiyouChanie/Restaurant-Website.git
-   ```
-
-
 ![image](https://github.com/user-attachments/assets/d189f4b4-5d19-4abf-9627-f7feabd862f1)
 ![image](https://github.com/user-attachments/assets/f51c7434-8ace-4ad5-b8bd-e893fea7a435)
 ![image](https://github.com/user-attachments/assets/2572d76a-d4f7-4229-ae3a-f281e7db4e53)
